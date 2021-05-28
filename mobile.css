@@ -85,6 +85,8 @@ p{
 
 .nav-menue a:hover{
     background-color: gray;
+    transition: .7s;   
+    transform: scale(1.1);
 
 }
 
