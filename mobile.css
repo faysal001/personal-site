@@ -522,6 +522,8 @@ background-color: white;
 
 .btn:hover{
     background-color: gray;
+    transition: .6s;
+    transform: scale(1.3);
 }
 
 
