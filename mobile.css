@@ -221,6 +221,8 @@ p{
 }
 .cv-button:hover{
     background-color: indigo;
+    transition: .2s;
+    transform: scale(1.02);
 }
 
 
@@ -495,6 +497,8 @@ p{
 
 .contact button:hover{
     background-color: indigo;
+    transition: .2s;
+    transform: scale(1.02);
 }
 
 
