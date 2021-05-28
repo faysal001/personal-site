@@ -189,7 +189,11 @@ p{
     width: 200px;
 }
 
-
+.aboutme-image img:hover{
+    transition: .4s;
+    transform: scale(1.01);
+    opacity: 90%;
+}
 
 .about-me p{
     text-align: center;
